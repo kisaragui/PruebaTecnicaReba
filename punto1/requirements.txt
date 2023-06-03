@@ -1,0 +1,7 @@
+pandas
+requests
+xlrd
+openpyxl
+matplotlib
+plotly
+nbformat

@@ -1,0 +1,7 @@
+.vscode
+__pycache__/
+*.xls
+*.xlsx
+punto2/logs/*
+.ipynb_checkpoints
+config/

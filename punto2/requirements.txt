@@ -1,0 +1,15 @@
+pandas
+requests
+wheel
+apache-airflow-providers-postgres
+psycopg2-binary
+apache-airflow-providers-microsoft-mssql
+pymssql
+xlrd
+openpyxl
+matplotlib
+plotly
+nbformat
+apache-airflow[odbc]
+apache-airflow-providers-google
+pyodbc

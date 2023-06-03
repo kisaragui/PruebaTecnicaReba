@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  jupyter-notebook:
+    image: jupyter:0.0.1
+    container_name: punto1
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/home/notebooks
